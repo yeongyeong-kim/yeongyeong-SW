@@ -50,7 +50,7 @@ AIoT, 머신러닝, 웹 개발 등 여러 분야에 도전하며 문제 해결 �
 
 
 
-#### 🅱 무인 주차 시스템 (AIoT)
+#### 🅱 무인 주차장 시스템 (AIoT)
 - Python, OpenCV, C# 사용
 - 차량 인식, 출입 시간 측정, 주차 요금 자동 계산
 - 👉 [코드 보기](https://github.com/yeongyeong-kim/Smart-Parking-System.git)(GitHub)
